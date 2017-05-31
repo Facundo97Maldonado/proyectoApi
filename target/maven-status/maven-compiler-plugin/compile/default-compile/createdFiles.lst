@@ -1,0 +1,8 @@
+com\proyectoApi\pocs\springboot\Entities\Marca.class
+com\proyectoApi\pocs\springboot\Controller\AutoController.class
+com\proyectoApi\pocs\springboot\Entities\Auto.class
+com\proyectoApi\pocs\springboot\Service\AutoService.class
+com\proyectoApi\pocs\springboot\Persistence\AbstractDao.class
+com\proyectoApi\pocs\springboot\Persistence\AutoDao.class
+com\proyectoApi\pocs\springboot\App.class
+com\proyectoApi\pocs\springboot\Persistence\MarcaDao.class

@@ -15,7 +15,7 @@ import java.util.List;
 /**
  * Created by Facundo on 30/05/2017.
  */
-@Controller
+@RestController
 public class AutoController {
 
     @Autowired

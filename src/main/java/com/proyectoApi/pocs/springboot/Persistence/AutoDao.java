@@ -2,6 +2,7 @@ package com.proyectoApi.pocs.springboot.Persistence;
 
 import com.proyectoApi.pocs.springboot.Entities.Auto;
 import com.proyectoApi.pocs.springboot.Entities.Marca;
+import org.springframework.stereotype.Repository;
 
 import java.text.ParseException;
 import java.util.ArrayList;
@@ -11,6 +12,7 @@ import java.util.List;
 /**
  * Created by Facundo on 30/05/2017.
  */
+@Repository
 public class AutoDao extends AbstractDao<Auto> {
 
     private List<Auto> listAutos;
